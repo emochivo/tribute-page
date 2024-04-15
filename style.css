@@ -4,6 +4,6 @@ body {
 
 #title {
   text-align: center;
-  text-color: white;
-  font-family: "Olde English";
+  color: white;
+  font-family: "Olde English", sans-serif;
 }
